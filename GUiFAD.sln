@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GUiFAD", "GUiFAD.vbproj", "{0FF70D4D-64ED-44DC-B17E-58C4D987AFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF70D4D-64ED-44DC-B17E-58C4D987AFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF70D4D-64ED-44DC-B17E-58C4D987AFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF70D4D-64ED-44DC-B17E-58C4D987AFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF70D4D-64ED-44DC-B17E-58C4D987AFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE346975-4E3D-4174-8E5E-3E90439C4749}
+	EndGlobalSection
+EndGlobal

@@ -13,6 +13,8 @@ has a few attributes to mark relation roles like "principal", "lookup".
 Although it's a generic UI with no manual optimization, it provides a maximum of usability, because it keeps the balance between information overkill
 and necessary features.
 
+Details: http://vodi.de/ProgrammingWiki/#GuiFAD
+
 ## Future
 
 This pattern is not purely theoretical. It has been fully implemented (non-generic) in an enterprise product that was used by thousands of users.
